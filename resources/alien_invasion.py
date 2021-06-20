@@ -155,11 +155,12 @@ class Window:
 
             #loop which will display every alien on the screen and will checkcollision
             for alien in self.aliens:
-                alien.draw()
-                alien.checkCollision(self)
-                if (alien.y + 32 > height):
-                    self.lost = True
-                    self.displayText("YOU DIED",height)
+                if not self.ship_distroyed:
+                    alien.draw()
+                    alien.checkCollision(self)
+                    if (alien.y + 32 > height):
+                        self.lost = True
+                        self.displayText("YOU DIED",height)
 
             #loop which will fire bullet from the bullets list and will check delete that bullet when it enters the negative Y axis
             for bullet in self.bullets:

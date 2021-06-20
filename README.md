@@ -26,12 +26,34 @@ loses the game and the game ends.
 ## ⚔ Let's play
 
 ### Cloning the Repository
-
-
-
+```
+cd Desktop/
+```
+```
+git clone https://github.com/royabhi00/Alien_Invasion.git
+```
 ### Running 
+```
+cd Desktop/
+```
+```
+cd Alien_Invasion
+```
+```
+cd resources
+```
+```python
+python3 alien_invasion.py
+```
 
+## CAN YOU CONTRIBUTE
 
+YES
+
+- IF YOU FIN ANY BUG 
+- ANY NEW FEATURE YOU WANT TO ADD
+
+WE WILL SURELY WELCOME THE CHANGES YOU MAKE
 
 Enjoy!
 
