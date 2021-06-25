@@ -10,7 +10,7 @@ class Ship:
 
     #this function is used to draw the ship 
     def draw(self):
-        self.window.screen.blit(pygame.image.load('resources/ship.png'),(self.x ,self.y))
+        self.window.screen.blit(pygame.image.load('ship.png'),(self.x ,self.y))
 
     #checking collision of ship with aliens
     def checkCollision(self, window):
@@ -30,7 +30,7 @@ class Alien:
 
     #this function is used to draw the alien 
     def draw(self):
-        self.window.screen.blit(pygame.image.load('resources/alien.png'),(self.x,self.y))
+        self.window.screen.blit(pygame.image.load('alien.png'),(self.x,self.y))
         self.y += self.window.alien_speed
 
     #this function will check the collision taking place or not
@@ -148,7 +148,7 @@ class Window:
             #self.screen.fill((0, 0, 0))
 
             #giving a background image
-            self.screen.blit(pygame.image.load("resources/BG.png"), (0,0))
+            self.screen.blit(pygame.image.load("BG.png"), (0,0))
 
             #giving caption
             pygame.display.set_caption("Alien Invasion")
