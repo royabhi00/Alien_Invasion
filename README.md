@@ -23,6 +23,10 @@ loses the game and the game ends.
 - Arrows keys (left - right)
   - Move the ship left / right
 
+- To Quit
+  - Press q key
+  - Cut the window directly
+
 ## ⚔ Let's play
 
 ### Cloning the Repository
