@@ -41,10 +41,7 @@ git clone https://github.com/royabhi00/Alien_Invasion.git
 cd Desktop/
 ```
 ```
-cd Alien_Invasion
-```
-```
-cd resources
+cd Alien_Invasion/resources
 ```
 ```python
 python3 alien_invasion.py
