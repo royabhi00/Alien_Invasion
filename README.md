@@ -1,4 +1,4 @@
-![](https://github.com/royabhi00/Alien_Invasion/blob/main/game.png)
+![](https://github.com/royabhi00/Alien_Invasion/blob/main/game_banner.png)
 # 👽 Alien Invasion
 ## 🚀 Introduction
 > In Alien Invasion, the player controls a ship that appears at
