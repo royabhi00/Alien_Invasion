@@ -46,6 +46,8 @@ cd Alien_Invasion/resources
 ```python
 python3 alien_invasion.py
 ```
+### GAMEPLAY_GIF
+![](https://github.com/royabhi00/Alien_Invasion/blob/main/game_gif.gif)
 
 ## CAN YOU CONTRIBUTE
 
