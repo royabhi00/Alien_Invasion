@@ -1,33 +1,19 @@
 ![](https://github.com/royabhi00/Alien_Invasion/blob/main/game_banner.png)
-# 👽 Alien Invasion
-## 🚀 Introduction
-> In Alien Invasion, the player controls a ship that appears at
-the bottom center of the screen. The player can move the ship
-right and left using the arrow keys and shoot bullets using the
-spacebar. When the game begins, a fleet of aliens fills the sky
-and moves across and down the screen. The player shoots and
-destroys the aliens. If the player shoots all the aliens, a new fleet
-appears that moves faster than the previous fleet. If any alien hits
-the player’s ship or reaches the bottom of the screen, the player
-loses the game and the game ends.
+# Alien Invasion
+## Introduction
+> - This is a Alien_Invasion game developed with the help of Python and Pygame module
+> - In this game, User is given the control of the a Space_ship with the help of which user will destroy the aliens 
+## Features 
+> - There are Five fleets of aliens which user has to destroy with help of Space_ship
+> - When the fleet is destroy the fleet will be coming with more speed toward the ship 
 
-## 🔧 Requeriments
-- [Python](https://www.python.org/) 3.x + (I used 3.8.5 version)
+## Modules used in this game
 - [Pygame](https://www.pygame.org/)
 
-## :video_game: Controls
+## Python version
+- [Python](https://www.python.org/) 3.x+ (I used 3.8.5 version)
 
-- Space-bar
-  - Shoot
-
-- Arrows keys (left - right)
-  - Move the ship left / right
-
-- To Quit
-  - Press q key
-  - Cut the window directly
-
-## ⚔ Let's play
+## Play the Game
 
 ### Cloning the Repository
 ```
@@ -49,6 +35,22 @@ python3 alien_invasion.py
 ### GAMEPLAY_GIF
 ![](https://github.com/royabhi00/Alien_Invasion/blob/main/game_gif.gif)
 
+### How To Play The Game
+ # 
+ 
+| Events           |     Keys                                                                                |
+| ---------------------|----------------------------------------------------------------------------------------------------| 
+|To shoot the alien ship   | Space Bar|
+|To move the ship left   | Left Arrow key|
+|TO move the ship right  | Right Arrow key|
+|TO quit the game  | Q |
+
+#
+
+### !!REMEMBER!!
+>- If the alien touches the Space_ship then your Space_ship will be destroyed
+>- If the alien somehow reach the bottom most point of the window then also your Space_ship will be destroyed
+
 ## CAN YOU CONTRIBUTE
 
 YES
@@ -56,9 +58,9 @@ YES
 - IF YOU FIND ANY BUG 
 - ANY NEW FEATURE YOU WANT TO ADD
 
-WE WILL SURELY WELCOME THE CHANGES YOU MAKE
+WE WILL SURELY WELCOME THE CHANGES YOU MAKE TO IMPROVE THE GAME
 
-Enjoy!
+HAVE A GOOD DAY!
 
 
   
