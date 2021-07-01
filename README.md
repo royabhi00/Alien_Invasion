@@ -5,7 +5,7 @@
 > - In this game, User is given the control of the a Space_ship with the help of which user will destroy the aliens 
 ## Features 
 > - There are Five fleets of aliens which user has to destroy with help of Space_ship
-> - When the fleet is destroyed, the next fleet will be coming with more speed toward the ship 
+> - When a fleet is destroyed, the next fleet will be coming with more speed toward the ship 
 
 ## Modules used in this game
 - [Pygame](https://www.pygame.org/)
