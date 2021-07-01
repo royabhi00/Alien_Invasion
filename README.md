@@ -1,4 +1,4 @@
-![](https://github.com/royabhi00/Alien_Invasion/blob/main/game_banner.png)
+![](https://github.com/royabhi00/Alien_Invasion/blob/main/Game_Banner.png)
 # Alien Invasion
 ## Introduction
 > - This is a Alien_Invasion game developed with the help of Python and Pygame module
